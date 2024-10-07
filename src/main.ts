@@ -5,7 +5,7 @@ import { State } from "./types";
 
 // -- Constants values
 export const siteCode = "99mmcr63u3";
-export const featureKey = "bb_demo";
+export const featureKey = "demo_app";
 
 // -- Define the default state
 const state: State = {
